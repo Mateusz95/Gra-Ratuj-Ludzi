@@ -1,0 +1,19 @@
+C:\Users\grzeg\source\repos\Ratuj Ludzi\Ratuj Ludzi\bin\Release\Ratuj Ludzi.exe.config
+C:\Users\grzeg\source\repos\Ratuj Ludzi\Ratuj Ludzi\bin\Release\Ratuj Ludzi.exe
+C:\Users\grzeg\source\repos\Ratuj Ludzi\Ratuj Ludzi\bin\Release\Ratuj Ludzi.pdb
+C:\Users\grzeg\source\repos\Ratuj Ludzi\Ratuj Ludzi\obj\Release\App.g.cs
+C:\Users\grzeg\source\repos\Ratuj Ludzi\Ratuj Ludzi\obj\Release\Ratuj Ludzi_MarkupCompile.cache
+C:\Users\grzeg\source\repos\Ratuj Ludzi\Ratuj Ludzi\obj\Release\Ratuj Ludzi_MarkupCompile.lref
+C:\Users\grzeg\source\repos\Ratuj Ludzi\Ratuj Ludzi\obj\Release\Ratuj Ludzi.g.resources
+C:\Users\grzeg\source\repos\Ratuj Ludzi\Ratuj Ludzi\obj\Release\Ratuj_Ludzi.Properties.Resources.resources
+C:\Users\grzeg\source\repos\Ratuj Ludzi\Ratuj Ludzi\obj\Release\Ratuj Ludzi.csproj.GenerateResource.Cache
+C:\Users\grzeg\source\repos\Ratuj Ludzi\Ratuj Ludzi\obj\Release\Ratuj Ludzi.csproj.CoreCompileInputs.cache
+C:\Users\grzeg\source\repos\Ratuj Ludzi\Ratuj Ludzi\obj\Release\Ratuj Ludzi.exe
+C:\Users\grzeg\source\repos\Ratuj Ludzi\Ratuj Ludzi\obj\Release\Ratuj Ludzi.pdb
+C:\Users\grzeg\source\repos\Ratuj Ludzi\Ratuj Ludzi\obj\Release\mainwindow.g.cs
+C:\Users\grzeg\source\repos\Ratuj Ludzi\Ratuj Ludzi\obj\Release\mainwindow.baml
+C:\Users\grzeg\source\repos\Ratuj Ludzi\Ratuj Ludzi\bin\Release\Ratuj Ludzi.exe.manifest
+C:\Users\grzeg\source\repos\Ratuj Ludzi\Ratuj Ludzi\bin\Release\Ratuj Ludzi.application
+C:\Users\grzeg\source\repos\Ratuj Ludzi\Ratuj Ludzi\obj\Release\Ratuj Ludzi.exe.manifest
+C:\Users\grzeg\source\repos\Ratuj Ludzi\Ratuj Ludzi\obj\Release\Ratuj Ludzi.application
+C:\Users\grzeg\source\repos\Ratuj Ludzi\Ratuj Ludzi\obj\Release\Ratuj Ludzi.csprojResolveAssemblyReference.cache
